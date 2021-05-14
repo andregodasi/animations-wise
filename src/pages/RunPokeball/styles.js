@@ -15,7 +15,7 @@ export const Container = styled.div`
     justify-content: center;
     align-items: center;
     top: 53%;
-    left: 57%;
+    left: calc(50% + 89px);
     border: 2px solid black;
     background: white;
     width: 100px;
